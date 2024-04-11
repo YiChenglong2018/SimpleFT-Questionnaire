@@ -1,2 +1,0 @@
-# SimpleFT-Questionnaire
-关于SimpleFT和PBFT共识协议易理解性及协议设计细节的调查问卷
